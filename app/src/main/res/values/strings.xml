@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Aswan Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="attractions_title">attractions</string>
+    <string name="hotels_title">hotels</string>
+    <string name="restaurants_title">restaurants</string>
+    <string name="shopping_title">shopping</string>
+    <string name="ruins_of_abu">Ruins of abu</string>
+    <string name="ruins_of_abu_details">The evocative ruins of ancient Abu and the Aswan Museum lie at Elephantine Island\'s southern tip. Numbered plaques and reconstructed buildings mark the island’s long history from around 3000 BC to the 14th century AD</string>
+    <string name="abu_simbel">Abu Simbel</string>
+    <string name="abu_simbel_details">Rocky temple of Ramses, the biggest temple for the second Ramses and the small temple for Hathor to The memory of Nefertiti, which become World Cultural Heritage Follow UNESCO since 1979</string>
+    <string name="botanical_gardens">Botanical Gardens</string>
+    <string name="botanical_gardens_details">Aswan Botanical Gardens: Kitchener’s Island, to the west of Elephantine Island, was given to Lord Horatio Kitchener in the 1890s when he was commander of the Egyptian army</string>
+    <string name="nubia_museum">Nubia Gardens</string>
+    <string name="nubia_museum_details">The little-visited Nubia Museum, opposite Basma Hotel, is a treat, a showcase of the history, art and culture of Nubia. Established in 1997 in cooperation with Unesco, the museum is a reminder of what was lost beneath Lake Nasser</string>
+    <string name="movenpick_resort_aswan">Mövenpick Resort Aswan</string>
+    <string name="movenpick_resort_details">Elephantine Island 0.41 km to city center 097-245-4455</string>
+    <string name="philae_hotel_aswan">Philae Hotel Aswan</string>
+    <string name="philae_hotel_details">79 Cormiche El Nile Street 0.36 km to city center 011-1901-1995</string>
+    <string name="sofitel_legend_old_cataract">Sofitel Legend Old Cataract</string>
+    <string name="sofitel_details">Abtal El Tahrir Street 1.25 km to city center</string>
+    <string name="cleopatra_hotel">Cleopatra Hotel</string>
+    <string name="cleopatra_hotel_details">Saad Zaghloul 0.28 km to city center</string>
+    <string name="ad_dukka">Ad Dukka</string>
+    <string name="ad_dukka_details">This Nubian restaurant, set on an island just beyond Elephantine Island, burnt down and was rebuilt in early 2017. It continues to serve excellent Nubian food in large and lavishly decorated portions.</string>
+    <string name="_1902_restaurant">1902 Restaurant</string>
+    <string name="_1902_details">The revamped Old Cataract Hotel has several top-end outlets, none grander than the 1902. Under its Moorish-inspired dome, the chefs – trained here and in France – serve sophisticated, expensive and mostly nouvelle cuisine.</string>
+    <string name="kebabgy">Kebabgy</string>
+    <string name="kababgy_details">Excellent Egyptian restaurant with a stylish interior room and a fabulous Nile terrace, serving fancy succulent kebabs and kofta as well as excellent mezze.</string>
+    <string name="al_makka">Al Makka</string>
+    <string name="al_makka_details">Popular with meat-eating local families, this place is famous for its excellent fresh kebabs and kofta, as well as stuffed pigeon</string>
+    <string name="nubia_tourist_book_centre">Nubia Tourist Book Centre</string>
+    <string name="nubia_book_center_details">Good, air-conditioned bookshop near the train station with loads of books on Aswan and Egypt in English. There is another well-stocked branch in the tourist bazaar at the Unfinished Obelisk.</string>
+    <string name="hanafi_bazaar">Hanafi Bazaar</string>
+    <string name="hanafi_bazar_details">With its mock Pharaonic facade, this is the oldest, dustiest and best bazaar in town, with genuine Nubian swords, baskets, amulets, silk kaftans and beads from all over Africa, run by the totally laid-back Hanafi brothers.</string>
+    <string name="aswan_market">Aswan Market</string>
+    <string name="aswan_market_details">it\'s full of locals shops selling authentic local products and stuff like herbs, peanuts, perfumes, precious stones, medals, hats, t-shirts, souvenirs</string>
+    <string name="el_sadat_street">El Sadat Street</string>
+    <string name="el_sadat_street_details">Indulge in the papyrus art at the Osiris Papyrus Museum. There are also several shops with interesting things like jewellery and perfumes for your shopping pleasure.</string>
+</resources>
